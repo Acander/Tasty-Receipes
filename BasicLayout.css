@@ -87,7 +87,7 @@ ul{
 	display: block;
 	list-style-type: disc;
 	margin-top: 0em;
-	margin-bottom: 1 em;
+	margin-bottom: 1em;
 	margin-left: 0;
 	margin-right: 0;
 	padding-left: 40px;
@@ -348,8 +348,8 @@ p.comment {
 	
 	.instructions ul li {font-size: 40%;}
 	
-	.textArea{font-size: 50%;)
-}
+	.textArea{font-size: 50%;}
+	}
 
 
 
